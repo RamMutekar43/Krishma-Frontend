@@ -13,7 +13,7 @@ import {
 
 const CustomerLayout = ({ children }) => {
   const location = useLocation();
-  const navigate = useNavigate();
+  const navigate = useNavigate() ;
 
   const navItems = [
     { name: 'Home', path: '/customer/home', icon: Home },
