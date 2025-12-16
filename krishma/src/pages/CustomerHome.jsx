@@ -10,7 +10,7 @@ import {
   TrendingUp,
   Gift,
   Truck
-} from 'lucide-react';
+} from 'lucide-react' ;
 
 const CustomerHome = () => {
   const features = [
